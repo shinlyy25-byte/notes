@@ -82,7 +82,7 @@
 <body>
   <div id="startDialog" class="dialog">Click disini bebb!</div>
 
-  <audio id="backgroundMusic" src="assets/music.mp3" loop></audio>
+  <audio id="backgroundMusic" src="assets/music2.mp3" loop></audio>
 
 <script>
   const messages = ["I Love You !"];
